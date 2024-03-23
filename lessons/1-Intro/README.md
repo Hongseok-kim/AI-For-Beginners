@@ -93,6 +93,8 @@ Alternately, we can try to model the simplest elements inside our brain – a ne
 
 ✅ Do a little research on how babies learn. What are the basic elements of a baby's brain?
 
+New neural connections are made through the first few years of humans and then some neural connections are cut to make brains more efficient.
+
 > | What about ML?         |      |
 > |--------------|-----------|
 > | Part of Artificial Intelligence that is based on computer learning to solve a problem based on some data is called **Machine Learning**. We will not consider classical machine learning in this course - we refer you to a separate [Machine Learning for Beginners](http://aka.ms/ml-beginners) curriculum. |   ![ML for Beginners](images/ml-for-beginners.png)    |
