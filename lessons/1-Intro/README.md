@@ -21,6 +21,7 @@ Originally, computers were invented by [Charles Babbage](https://en.wikipedia.or
 There are some tasks, however, that we do not explicitly know how to solve. Consider determining the age of a person from his/her photograph. We somehow learn to do it, because we have seen many examples of people of different age, but we cannot explicitly explain how we do it, nor can we program the computer to do it. This is exactly the kind of task that are of interest to **Artificial Intelligence** (AI for short).
 
 ✅ Think of some tasks that you could offload to a computer that would benefit from AI. Consider the fields of finance, medicine, and the arts - how are these fields benefiting today from AI?
+  
   In the area of clinical trials, the format of data are already specified, the different things among the trials are the indications and the endpoints, we can generate the algorithms of making analyzable data for submission from raw data.
   
 
