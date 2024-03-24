@@ -41,6 +41,8 @@ Thus, the problem of **knowledge representation** is to find some effective way 
 
 > ✅ Think for a minute about how you represent knowledge in your head and convert it to notes. Is there a particular format that works well for you to aid in retention?
 
+I cannot fully describe how I have knowledge in my head. When I need to think about the concept and connections among them, I draw pictures in my head.
+
 ## Classifying Computer Knowledge Representations
 
 We can classify different computer knowledge representation methods in the following categories:
